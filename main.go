@@ -1,7 +1,7 @@
 package main
 
 import (
-	"clase12-examen\desafio-go-bases\internal\tickets"
+	"github.com/valenanton-26/backend3-examen-parcial/internal/tickets"
 )
 
 func main() {
